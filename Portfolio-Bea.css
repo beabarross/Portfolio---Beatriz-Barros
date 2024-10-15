@@ -3,3 +3,11 @@
     font-family: "Poppins";
     
 }
+img {
+    width: 350px
+}
+div {
+    display: inline-block;
+    align-items: center;
+}
+
