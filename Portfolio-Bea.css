@@ -1,4 +1,4 @@
-* {
+.fundo {
     background-color: #d9cecc;
     font-family: "Poppins";
     
@@ -8,6 +8,10 @@ img {
 }
 div {
     display: inline-block;
-    align-items: center;
+    unicode-bidi: isolate;
+}
+
+.section.portfolio {
+    column-gap: 40px;
 }
 
