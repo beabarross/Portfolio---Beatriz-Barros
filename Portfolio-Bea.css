@@ -3,15 +3,76 @@
     font-family: "Poppins";
     
 }
-img {
-    width: 350px
-}
-div {
+
+.img-perfil {
+    width: 350px;
+    height: 350px;
     display: inline-block;
-    unicode-bidi: isolate;
+    padding-right: 100px;
+    margin-left: 80%;
+    margin-top: 10px;
+ 
+ 
 }
 
-.section.portfolio {
-    column-gap: 40px;
+.perfil {
+    display: flex;
+    gap: 350px;
+    height: 400px;
+    text-align: center;
+    margin-right: 25%;
+    margin-top: 50px;
+    
+}
+.title {
+    color: #F25A47;
 }
 
+.text-title {
+    color: #504c4b
+}
+.cards {
+    color: #fe8b7c
+}
+.skill {
+    color: #fe8b7c;
+}
+.Education {
+    color: #fe8b7c;
+}
+.local-education {
+    color: #504c4b;
+}
+.Contact {
+    color: #fe8b7c;
+}
+hr {
+    border-top: 10px dotted #135958;
+    width: 250px;
+    margin-top: 50px;
+  
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 100px;
+ 
+
+}
+
+.cards {
+
+}
+
+.card-img {
+    width: 400px;
+    height: 400px;
+    padding-inline: center;
+    padding: 50px;
+    
+}
+.card-body {
+    text-align: center;
+}
