@@ -89,10 +89,14 @@ hr {
 button {
     background-color: #007BFF;
     border-radius: 5px;
-    color: beige;
     border: none;
     font-size: 15px;
     padding: 10px 25px;
-  
+    
+}
 
+
+a {
+    text-decoration: none;
+    color: beige;
 }
